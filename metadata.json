@@ -1,0 +1,6 @@
+{
+  "name": "Blinka",
+  "description": "20-20-20 Eye Care Break Reminder",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
